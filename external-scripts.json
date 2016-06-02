@@ -1,0 +1,12 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-netrunner",
+  "hubot-thank-you",
+  "hubot-drupal",
+  "hubot-relevant-xkcd",
+  "hubot-auth"
+]
